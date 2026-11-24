@@ -627,7 +627,7 @@ function openLetter() {
       </div>
 
       <p class="letter-footer">
-        ချစ်ရေ မ..💗
+        ချိုက်တေ မ..💗
       </p>
 
     </article>
